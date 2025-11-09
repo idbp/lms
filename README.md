@@ -1,4 +1,3 @@
-markdown
 ![Preview Image](https://idbp.github.io/img.png)
 # نظام إدارة المعاهد والدورات التدريبية
 
